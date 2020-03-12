@@ -1,0 +1,7 @@
+jmp start;
+
+start: nop
+MVI A, 01H;
+OUT 00H;
+
+hlt

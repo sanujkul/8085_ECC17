@@ -1,0 +1,21 @@
+
+;<Program title>
+
+jmp start
+
+;data
+
+
+;code
+start: nop
+MVI A, 08H
+ADI 03EH;
+ADI 0FEH;
+ADI 0D3H;
+ADI 080H;
+ADI 03EH;
+ADI 0C0H;
+ADI 030H;
+ADI 076H;
+ADI 0C5H;
+hlt

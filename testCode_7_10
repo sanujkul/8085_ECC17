@@ -1,0 +1,17 @@
+
+;<Program title>
+
+jmp start
+
+;data
+
+
+;code
+start: nop
+MVI A, 0feh;
+OUT 80H;
+
+MVI A, 0C0H;
+SIM;
+
+hlt
