@@ -1,6 +1,12 @@
 # 8085_ECC17
+### This is project done under guidance of Prof D.V. Gadre in his lab The Center for Electronics Design and Technology
+
+### The aim was to make a project using 8085 microprocessor. 
 
 ### In this readme we will display the Project Report, so it will be lot different from actual README.md
+
+The video demonstrating the of the project can be found at 
+https://youtu.be/zBtNmY20Y-0
 
 ![](https://i.imgur.com/moHhHDd.jpg)
 ![](https://i.imgur.com/o03gDRe.jpg)
