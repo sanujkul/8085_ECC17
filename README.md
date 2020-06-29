@@ -1,7 +1,7 @@
 # 8085_ECC17
-### This is project done under guidance of Prof D.V. Gadre in his lab The Center for Electronics Design and Technology
+### This is project done under guidance of Prof D.V. Gadre in his lab The Centre for Electronics Design and Technology
 
-### The aim was to make a project using 8085 microprocessor. 
+### The aim was to make a project using 8085 microprocessor. We made a project that uses GPS NEO 6M and displays required fields on the LCD.
 
 ### In this readme we will display the Project Report, so it will be lot different from actual README.md
 
